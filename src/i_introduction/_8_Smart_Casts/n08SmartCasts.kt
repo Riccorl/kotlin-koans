@@ -18,7 +18,8 @@ fun eval(e: Expr): Int =
 fun todoTask8(expr: Expr): Nothing = TODO(
     """
         Task 8.
-        Complete the implementation of the 'eval' function above using smart casts and 'when' expression.
+        Complete the implementation of the 'eval' function above using smart casts and 'when'
+        expression.
         The 'JavaCode8.eval' method provides the similar functionality written in Java.
     """,
     documentation = doc8(),
